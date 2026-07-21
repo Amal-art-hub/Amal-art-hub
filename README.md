@@ -1,7 +1,16 @@
-## Hi there 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=280&section=header&text=Amal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=58&descAlign=50" alt="Header Banner" />
+</p>
 
-<!--
-**Amal-art-hub/Amal-art-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+MERN+Stack+Developer;%E2%9A%A1+Building+Web+Applications;%E2%9A%A1+Node.js+%26+React+Enthusiast" alt="Typing SVG" />
+</p>
+
+---
+
+### 🤷‍♂️ About Me
+
+I'm a full-stack developer focused on building scalable web platforms using MongoDB, Express, React, and Node.js (MERN Stack).
 
 Here are some ideas to get you started:
 
