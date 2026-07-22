@@ -8,18 +8,36 @@
 
 ---
 
-### 🤷‍♂️ About Me
+# Hi, I'm Amal 👋  
+### 🚀 Full-Stack MERN Developer
 
-I'm a full-stack developer focused on building scalable web platforms using MongoDB, Express, React, and Node.js (MERN Stack).
+I build scalable, responsive web applications using **MongoDB, Express.js, React, and Node.js**. I focus on writing clean code, researching emerging technologies, and turning ideas into efficient, production-ready products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Key Highlights
+* 🛍️ **Live Project:** Built and deployed **Solestyle** (`solestyle.online`), a full-stack e-commerce application.
+* 🚀 **Adaptability & Tech Research: Quick to learn and integrate emerging technologies into efficient, real-world applications.
+* 🧩 **Problem Solving:** Dedicated focus on Data Structures & Algorithms (DSA) and clean system architecture.
+
+---
+
+### 🛠️ Tech Stack & Skills
+* **Frontend:** React.js, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+* **Backend:** Node.js, Express.js, RESTful APIs
+* **Database:** MongoDB, Mongoose
+* **Tools & Hosting:** Git, GitHub, Postman, Web Hosting & Deployment
+
+---
+
+### ⚡ Hobbies & Interests
+* 🎹 Playing the keyboard & piano
+* 🔍 Exploring new developer tools and tech stacks
+
+---
+
+### 📬 Connect With Me
+* 📧 Email: Uvamal11@gmail.com
+* 📍 Location: Malappuram, Kerala
+
+---
