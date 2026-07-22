@@ -31,7 +31,7 @@ I build scalable, responsive web applications using **MongoDB, Express.js, React
 ---
 
 ### ⚡ Hobbies & Interests
-* 🎹 Playing the keyboard & piano
+* 🎯 **Building Products:** Ideating and architecting end-to-end full-stack web applications.
 * 🔍 Exploring new developer tools and tech stacks
 
 ---
