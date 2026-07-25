@@ -1,10 +1,27 @@
 <p align="center">
+  <!-- NEW Header Banner with Teal-to-Cyan Gradient Waves -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1:065f46,2:0891b2&height=280&section=header&text=Amal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=58&descAlign=50" alt="Header Banner" />
+</p>
+
+<p align="center">
+  <!-- Typing SVG updated to match the teal accent color -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+MERN+Stack+Developer;%E2%9A%A1+Building+Web+Applications;%E2%9A%A1+Node.js+%26+React+Enthusiast" alt="Typing SVG" />
+</p>
+
+
+
+
+
+
+
+
+<!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1e1b4b&height=280&section=header&text=Amal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=58&descAlign=50" alt="Header Banner" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+MERN+Stack+Developer;%E2%9A%A1+Building+Web+Applications;%E2%9A%A1+Node.js+%26+React+Enthusiast" alt="Typing SVG" />
-</p>
+</p> -->
 
 ---
 
