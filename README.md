@@ -1,17 +1,14 @@
 <p align="center">
-  <!-- Dynamic Header Banner (capsule-render) with Waving Type and Gradient -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1:065f46,2:0891b2&height=280&section=header&text=YOUR_REAL_NAME&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=58&descAlign=50" alt="Header Banner" />
+  <!-- Fixed capsule-render header with exact hex gradient and your name -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:065f46,100:0891b2&height=280&section=header&text=Amal&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20|%20MERN%20Stack&descAlignY=58&descAlign=50" alt="Header Banner" />
 </p>
 
-<!-- The main descriptive text below the banner -->
 <p align="center">
-  <!-- Replace the existing path with your repository path, e.g., YOUR_USERNAME/.README.md -->
-  <code>Amai-art-hub/.README.md</code>
+  <code>Amal-art-hub/.README.md</code>
 </p>
 
-<!-- The centered sub-header below the banner -->
 <p align="center">
-  <!-- Dynamic Typing SVG (readme-typing-svg) -->
+  <!-- Typing SVG -->
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=14B8A6&center=true&vCenter=true&width=600&height=50&lines=%E2%9A%A1+MERN+Stack+Developer;%E2%9A%A1+Building+Web+Applications;%E2%9A%A1+Node.js+%26+React+Enthusiast" alt="Typing SVG" />
 </p>
 
